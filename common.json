@@ -53,6 +53,11 @@
       "error": "删除项目时出错。请再试一次。"
     },
     "searchFilters": "搜索过滤器",
+    "datePicker": {
+      "title": "选择日期",
+      "titleWithTime": "选择日期时间",
+      "yearMonth": "选择年月"
+    },
     "iconPicker": {
       "title": "选择图标",
       "items": {
