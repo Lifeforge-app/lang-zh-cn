@@ -119,12 +119,27 @@
       "modals": {
         "morandiColorPalette": "莫兰迪色调",
         "tailwindCssColorPalette": "Tailwind CSS色调",
-        "flatUiColors": "Flat UI Colors"
+        "flatUiColors": "Flat UI Colors",
+        "chineseTraditionalColors": "中国传统色"
       },
       "buttons": {
         "morandiColorPalette": "莫兰迪色调",
         "tailwindCssColorPalette": "Tailwind CSS色调",
-        "flatUiColors": "Flat UI Colors"
+        "flatUiColors": "Flat UI Colors",
+        "chineseTraditionalColors": "中国传统色"
+      },
+      "groups": {
+        "white": "白色系",
+        "orange": "橙色系",
+        "pink": "粉色系",
+        "green": "绿色系",
+        "cyan": "青色系",
+        "blue": "蓝色系",
+        "purple": "紫色系",
+        "yellow": "黄色系",
+        "red": "红色系",
+        "black": "黑色系",
+        "brown": "褐色系"
       }
     },
     "imagePreview": "图片预览",
